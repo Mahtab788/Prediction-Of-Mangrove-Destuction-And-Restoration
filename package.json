@@ -19,6 +19,7 @@
     "material-colors": "^1.2.6",
     "node-sass": "^4.14.1",
     "react": "^17.0.1",
+    "react-router-dom": "5.3.4",
     "react-dom": "^17.0.1",
     "react-feather": "^2.0.8",
     "react-map-gl": "^5.2.9",
@@ -30,6 +31,10 @@
     "redux-persist": "^6.0.0",
     "summary": "^2.1.0",
     "web-vitals": "^0.2.4"
+  },
+  
+  "devDependencies": {
+      "microbundle": "^0.11.0"
   },
   "scripts": {
     "start": "react-scripts start",
